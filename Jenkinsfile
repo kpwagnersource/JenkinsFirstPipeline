@@ -18,7 +18,7 @@ pipeline {
     			echo "Build number: ${BUILD_NUMBER}"
     			echo "Build URL: ${BUILD_URL}"
     			echo "Executor number: ${EXECUTOR_NUMBER}"
-    			echo "Java home: ${JAVA_HOME}"
+    			
     			echo "Jenkins URL: ${JENKINS_URL}"
     			echo "Job name: ${JOB_NAME}"
     			echo "Node name: ${NODE_NAME}"
